@@ -70,7 +70,7 @@ Repositório:
 
 GitHub Pages:
 
-`https://github.com/miguel-andrade-lima`
+`https://miguel-andrade-lima.github.io/world_explorer/`
 
 ## 📝 Sugestão de commits
 
