@@ -71,6 +71,11 @@ Repositório:
 GitHub Pages:
 
 `https://miguel-andrade-lima.github.io/world_explorer/`
+`COLOQUE_AQUI_O_LINK_DO_SEU_REPOSITORIO`
+
+GitHub Pages:
+
+`COLOQUE_AQUI_O_LINK_DO_SEU_GITHUB_PAGES`
 
 ## 📝 Sugestão de commits
 
