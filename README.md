@@ -66,11 +66,11 @@ world-explorer/
 
 Repositório:
 
-`COLOQUE_AQUI_O_LINK_DO_SEU_REPOSITORIO`
+`https://github.com/miguel-andrade-lima/world_explorer`
 
 GitHub Pages:
 
-`COLOQUE_AQUI_O_LINK_DO_SEU_GITHUB_PAGES`
+`https://github.com/miguel-andrade-lima`
 
 ## 📝 Sugestão de commits
 
